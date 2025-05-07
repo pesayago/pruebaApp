@@ -1,2 +1,2 @@
 # pruebaApp
-Prueba de una app simple en spring boot
+Prueba de una app simple en spring boot.
